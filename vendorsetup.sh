@@ -1,0 +1,3 @@
+add_lunch_combo lineage_a7s-user
+add_lunch_combo lineage_a7s-userdebug
+add_lunch_combo lineage_a7s-eng
