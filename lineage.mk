@@ -7,7 +7,7 @@ PRODUCT_RELEASE_NAME := A7S
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Inherit device configuration
-#$(call inherit-product, device/hxy/A7S/device_A7S.mk)
+$(call inherit-product, device/hxy/A7S/device_A7S.mk)
 
 TARGET_SCREEN_HEIGHT := 1600
 TARGET_SCREEN_WIDTH := 720
