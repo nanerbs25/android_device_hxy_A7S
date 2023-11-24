@@ -1,13 +1,13 @@
 ## Specify phone tech before including full_phone
 
 # Release name
-PRODUCT_RELEASE_NAME := panelli
+PRODUCT_RELEASE_NAME := A7S
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Inherit device configuration
-#$(call inherit-product, device/moto/panelli/device_panelli.mk)
+#$(call inherit-product, device/hxy/A7S/device_A7S.mk)
 
 TARGET_SCREEN_HEIGHT := 1600
 TARGET_SCREEN_WIDTH := 720
