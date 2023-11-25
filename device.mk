@@ -1,4 +1,4 @@
- LOCAL_PATH := device/hxy/A7S
+LOCAL_PATH := device/hxy/A7S
 
 # inherit from common mt6737 repo
 -include device/hxy/mt6737/mt6737.mk
